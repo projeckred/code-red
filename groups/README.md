@@ -4,7 +4,7 @@ Each group has its own folder here, containing their game project in either
 Scratch or Greenfoot.
 
 ## Structure
-
+```
 groups/
 ├── group-01/
 │ └── Scratch/
@@ -16,7 +16,7 @@ groups/
 │ ├── package.bluej
 │ └── ...
 └── ...
-
+```
 
 ## Rules
 
