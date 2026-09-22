@@ -7,10 +7,12 @@ Repository for R.ED's introductory coding programme, where students apply progra
 Each group has its own folder under `groups/`, containing their game project
 in either Scratch or Greenfoot.
 
+```
 groups/
 ├── group-01/Scratch/game.sb3
 ├── group-02/Greenfoot/my-game-project/
 └── ...
+```
 
 ## Branching guide — for the participating groups
 
